@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Mar  1 13:31:37 2023 UTEC
+
+@author: Cristian López Del Alamo
+"""
 
 
 
